@@ -3,7 +3,7 @@
 in this app you can paint anything you want
 and if you click 1-2-3-4 you can even switch canvases
 just like switching tabs in google!!!
-check it out!!!
+check it out!!! in the images you can see its all drawn in 1 app but diffrent tabs
 
 <p align="center">
   <img src="preview1.jpg" alt="" width="800">
